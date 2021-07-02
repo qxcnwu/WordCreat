@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MOD>
+  <qw>
+    <CLASS>TXT</CLASS>
+    <BOOKMARK>123</BOOKMARK>
+    <TXTCONTENT>213fdcvtebevcecevre</TXTCONTENT>
+    <FONTSIZE>10</FONTSIZE>
+    <FONTCOLOR>11</FONTCOLOR>
+    <PARABOOL>True</PARABOOL>
+  </qw>
+  <qwer>
+    <CLASS>TABLE</CLASS>
+    <BOOKMARK>1234</BOOKMARK>
+    <TITLE>label1</TITLE>
+    <FILLTABLE>True</FILLTABLE>
+    <TABLECONTENT>1;2;3;4;5;6;7;8;9;0;</TABLECONTENT>
+    <LINE>2</LINE>
+    <ROW>5</ROW>
+    <FONTSIZE>10</FONTSIZE>
+    <FONTCOLOR>10</FONTCOLOR>
+  </qwer>
+  <qwe>
+    <CLASS>PICTURE</CLASS>
+    <BOOKMARK>qwe</BOOKMARK>
+    <PICPATH>D:\destbook\绘图1.png</PICPATH>
+  </qwe>
+</MOD>

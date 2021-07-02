@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MOD>
+  <qwer>
+    <CLASS>TXT</CLASS>
+    <BOOKMARK>qwer</BOOKMARK>
+    <TXTCONTENT>wqdcervrvewvr</TXTCONTENT>
+    <FONTSIZE>24</FONTSIZE>
+    <FONTCOLOR>0</FONTCOLOR>
+    <PARABOOL>True</PARABOOL>
+  </qwer>
+  <qw>
+    <CLASS>TABLE</CLASS>
+    <BOOKMARK>qw</BOOKMARK>
+    <TITLE>save</TITLE>
+    <FILLTABLE>True</FILLTABLE>
+    <TABLECONTENT>save;ve;qw;qw;;</TABLECONTENT>
+    <LINE>2</LINE>
+    <ROW>0</ROW>
+    <FONTSIZE>10</FONTSIZE>
+    <FONTCOLOR>11</FONTCOLOR>
+  </qw>
+</MOD>

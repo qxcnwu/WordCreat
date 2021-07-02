@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MOD>
+  <qw>
+    <CLASS>TXT</CLASS>
+    <BOOKMARK>qw</BOOKMARK>
+    <TXTCONTENT>wcdffvaavaeavr</TXTCONTENT>
+    <FONTSIZE>10</FONTSIZE>
+    <FONTCOLOR>0</FONTCOLOR>
+    <PARABOOL>False</PARABOOL>
+  </qw>
+  <qwe>
+    <CLASS>TABLE</CLASS>
+    <BOOKMARK>qwe</BOOKMARK>
+    <TITLE>title</TITLE>
+    <FILLTABLE>True</FILLTABLE>
+    <TABLECONTENT>1;2;3;4;5;6;7;8;9;10;</TABLECONTENT>
+    <LINE>2</LINE>
+    <ROW>5</ROW>
+    <FONTSIZE>10</FONTSIZE>
+    <FONTCOLOR>0</FONTCOLOR>
+  </qwe>
+</MOD>
